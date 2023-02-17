@@ -7,3 +7,4 @@ Examining tree structures
 3- Examining search binary in tree strucure
 4- Depth-First Search for Tree
 5- Breadth-First Search for Tree
+6- AVL tree
